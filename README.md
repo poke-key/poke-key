@@ -1,3 +1,3 @@
-## Hi there I'm Kunal Shrivastav👋
+# Hi there, I'm Kunal Shrivastav 👋
 
-![Languages](https://ionicabizau.github.io/github-profile-languages/api.html?poke-key)
+![Kunal's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poke-key&layout=compact&theme=vision-friendly-dark)
